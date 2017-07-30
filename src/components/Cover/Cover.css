@@ -1,11 +1,11 @@
 
 .Cover {
   background-color: #000;
-  width: 100%;
-  height: 200px;
-  padding: 20px;
+  padding: 3em;
   text-align: left;
   color: #fff;
 
-  display: block;
+  width: 100%;
+
+  display: inline-flex;
 }
