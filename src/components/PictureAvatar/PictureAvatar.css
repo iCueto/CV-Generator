@@ -1,0 +1,9 @@
+
+.PictureAvatar .Avatar {
+  width: 150px;
+  height: auto;
+}
+
+.Avatar {
+  border-radius: 50%;
+}
